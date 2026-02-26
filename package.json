@@ -1,0 +1,17 @@
+{
+  "name": "quest2-merge-pdf",
+  "version": "1.0.0",
+  "description": "Quest 2: Merge two PDF files into a single document",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "merge": "node src/index.js",
+    "test": "node src/index.js --test"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  },
+  "keywords": ["pdf", "merge", "rpa"],
+  "author": "",
+  "license": "MIT"
+}
